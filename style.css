@@ -1,0 +1,58 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    background-color: rgb(0, 238, 255);
+    border-radius: 20px;
+}
+
+.bmw{
+    background-color: black;
+    color: aliceblue;
+}
+
+.mers{
+    background-color: black;
+    color: aliceblue;
+}
+
+.supra{
+    background-color: coral;
+    color: aliceblue;
+}
+
+.nike{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.bomba{
+    background-color: rgb(255, 0, 0);
+    border-radius: 20px;
+    color: aliceblue;
+}
+
+.uy{
+    background-color: green;
+    color: aliceblue;
+    border-radius: 20px;
+}
+
+.kaka{
+    background-color: black;
+    color: aqua;
+}
+
+b{
+    background-color: blue;
+}
+
+.ronaldo{
+    background-color: coral;
+    color: aliceblue;
+}
